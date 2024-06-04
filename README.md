@@ -20,7 +20,6 @@ The project explores the application of synaptic homeostasis in the design of a 
 - Python 3.x
 - Jupyter Notebook
 - CoppeliaSim
-- Required Python libraries (listed in `requirements.txt` if available)
 
 ### Running the Code
 
